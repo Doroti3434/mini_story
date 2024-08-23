@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">is_natasha_sleeping</string>
+    <string name="displeased_cat">displeased cat</string>
+    <string name="the_suspicious_cat">The suspicious cat</string>
+    <string name="uncomprehending_cat">uncomprehending cat</string>
+    <string name="crying_cat">crying cat</string>
+    <string name="showing_images_button">кнопка проявляющая изображения</string>
+    <string name="about_text">
+       Эта одна из первых программ,\n разработанных мною на котлине\n
+       Очень надеюсь, что вам понравилась\n короткая история о краже рыбов
+    </string>
+    <string name="about_title">О программе</string>
+    <string name="super_where_fish">Супер…\nА где рыбовы?...</string>
+    <string name="it_was_you">Это точно были вы!!!</string>
+    <string name="sniff_snifff">*нюх нюх*</string>
+    <string name="was_it_you">Это вы украли рыбов?</string>
+    <string name="sorry_i_dont_know">Промстити,\n я ничево не знаю</string>
+    <string name="black_cat">black cat</string>
+</resources>
